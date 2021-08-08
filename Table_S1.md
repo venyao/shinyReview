@@ -1,4 +1,4 @@
-﻿>Table S1. Survey of the web techniques used to build biological web applications in the latest issues of web servers and databases of Nucleic Acid Research.  
+﻿>Table S1. Survey of the web techniques used to build biological web applications in the latest issues of web servers and databases of Nucleic Acids Research.  
 
 | Application name        | DOI                  | Application URL                                       | Web techniques                                                                      |
 |-------------------------|----------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------|
